@@ -53,8 +53,8 @@ class Proposta(models.Model):
 
 	class Meta:
 		ordering = ['-data']
-		verbose_name = u'PROPOSTA'
-		verbose_name_plural = u'PROPOSTAS'
+		verbose_name = u'Proposta'
+		verbose_name_plural = u'Propostas'
 
 	def __str__(self):
 		if self.cliente.nome:
