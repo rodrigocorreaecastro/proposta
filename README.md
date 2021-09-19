@@ -1,6 +1,7 @@
 # proposta
 https://www.youtube.com/watch?v=kLKl9IuLDV8&amp;list=WL&amp;index=31&amp;t=1373s
 
+```
 $ # Get the code
 $ git clone https://github.com/wooddewweb/proposta.git
 $ cd proposta
@@ -27,3 +28,5 @@ $ # Start the app - custom port
 $ # python manage.py runserver
 $
 $ # Access the web app in browser: http://127.0.0.1:8000/
+
+```
